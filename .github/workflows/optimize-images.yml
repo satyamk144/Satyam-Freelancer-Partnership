@@ -51,3 +51,4 @@ jobs:
             git commit -m "chore: optimize images and update gallery"
             git push
           fi
+
