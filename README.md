@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://satyamk144.github.io/Satyam-Kumar-Freelancer-Partnership/">
+  <a href="https://satyamk144.github.io/Satyam-Freelancer-Partnership/">
     🌐 Visit Website
   </a>
 </p>
